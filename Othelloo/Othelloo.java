@@ -32,3 +32,5 @@ public class Othelloo
 
 
 // 		board.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+
+// Github commit #1	
